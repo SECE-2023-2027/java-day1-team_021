@@ -1,5 +1,3 @@
-package Vishnu;
-
 import java.util.*;
 
 public class question1 {
@@ -9,5 +7,6 @@ public class question1 {
         System.out.println("Hello");
         System.out.println(name);
         sc.close();
+
     }
 }
